@@ -41,6 +41,8 @@
 - 라이브 경기 타임라인 자동 갱신 및 브로드캐스트
 - Next.js 기반 프론트엔드 개발
 - 게시글, 댓글, 좋아요 등 커뮤니티 기능 구현
+- 데이터 기반 타자 스프레이 데이터 타점으로 구현
+- 데이터 기반 투수 피칭 위치 및 구종, 구속, RPM 등 구현
 
 **Repositories**
 - [MLB Backend](https://github.com/KangKyunghun/MLB-back/tree/Test)
