@@ -53,7 +53,7 @@ ERP-Chat
 - MySQL 기반 메시지 및 대화방 데이터 관리
 - 1:1 및 그룹 메시지 처리
 - 메시지 읽음 상태 및 대화 내역 관리
-- WebSocket, STOMP, SockJS 기반 실시간 통신 기능 관련 백엔드 구현
+- REST API 기반 실시간 통신 기능 관련 백엔드 구현
 
 **Repositories**
 - [ERP Spring](https://github.com/WithWorker/erp-spring)
