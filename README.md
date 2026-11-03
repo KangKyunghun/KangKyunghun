@@ -32,17 +32,20 @@
 ### ⚾ MLB Project
 **개인 프로젝트 | MLB 데이터 분석 및 커뮤니티 웹 서비스**
 
-- MLB 경기 및 선수 데이터 수집·관리
-- 2024~2026 시즌 데이터 관리 구조 설계
+- MLB 경기 및 선수 데이터 수집·관리 시스템 구축
+- 2024~2026 시즌 데이터를 관리할 수 있는 데이터 구조 설계
 - Spring Boot 기반 REST API 개발
-- PostgreSQL 및 Redis를 활용한 데이터 관리
-- JWT 기반 회원 인증 및 보안 처리
-- WebSocket(STOMP)을 활용한 실시간 경기 채팅
-- 라이브 경기 타임라인 자동 갱신 및 브로드캐스트
-- Next.js 기반 프론트엔드 개발
+- PostgreSQL 및 Redis를 활용한 데이터 저장 및 관리
+- JWT 기반 회원 인증 및 Spring Security 보안 처리
+- WebSocket(STOMP)을 활용한 실시간 경기 채팅 구현
+- 라이브 경기 타임라인 자동 갱신 및 WebSocket 브로드캐스트 구현
+- 시즌별 경기 데이터 수집 및 스케줄러를 통한 자동화
+- 경기별 라인스코어 및 박스스코어 데이터 구현
+- 선수별 시즌 기록 및 상황별 세부 통계 조회 기능 구현
+- 타자 스프레이 차트를 활용한 타구 방향 및 타점 시각화
+- 투수 피칭 위치, 구종, 구속, RPM 등 투구 데이터 시각화
 - 게시글, 댓글, 좋아요 등 커뮤니티 기능 구현
-- 데이터 기반 타자 스프레이 데이터 타점으로 구현
-- 데이터 기반 투수 피칭 위치 및 구종, 구속, RPM 등 구현
+- Next.js, React, TypeScript 기반 프론트엔드 개발
 
 **Repositories**
 - [MLB Backend](https://github.com/KangKyunghun/MLB-back/tree/Test)
