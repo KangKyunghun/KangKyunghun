@@ -2,8 +2,8 @@
 
 **My Project**
 
-MLB Community
-ERP-Chat
+- MLB Community
+- ERP-Chat
 
 ---
 
