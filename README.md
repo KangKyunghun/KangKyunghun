@@ -25,11 +25,11 @@
 
 | 구분 | 프로젝트명 | 프로젝트 설명 | 기술 스택 |
 |:---:|:---|:---|:---|
-| Personal | **MLB Project** | MLB 경기 데이터 수집 및 선수 기록 분석, 야구 팬 커뮤니티 서비스 개발 | Java, Spring Boot, Next.js, React, TypeScript, PostgreSQL, Redis, WebSocket |
+| Personal | **MLB Community** | MLB 경기 데이터 수집 및 선수 기록 분석, 야구 팬 커뮤니티 서비스 개발 | Java, Spring Boot, Next.js, React, TypeScript, PostgreSQL, Redis, WebSocket |
 | Team | **ERP Chat** | ERP 시스템 내 실시간 메신저 기능 개발 참여 (Backend / Frontend) | Java, Spring Boot, React, MySQL, MyBatis, REST API |
 | Team | **Restaurant Search** | Python 크롤링 기반 맛집 검색 및 필터링, 업체 상세 정보 제공 웹 서비스 | Python, HTML, CSS, JavaScript, Node.js, Express, Firebase |
 
-### ⚾ MLB Project
+### ⚾ MLB Community
 **개인 프로젝트 | MLB 데이터 분석 및 커뮤니티 웹 서비스**
 
 - MLB 경기 및 선수 데이터 수집·관리 시스템 구축
